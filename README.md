@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aminu7
-- 👀 I’m interested in data networking and cloud technologies
+- 👀 I’m interested in cloud and devops
 - 🌱 I’m currently learning networking, automation and cloud technologies
 - 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me ...

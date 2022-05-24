@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aminu7
+- 👋 Hi, I’m Aminu
 - 👀 I’m interested in cloud and devops
 - 🌱 I’m currently learning networking, automation and cloud technologies
 - 💞️ I’m looking to collaborate on automation
